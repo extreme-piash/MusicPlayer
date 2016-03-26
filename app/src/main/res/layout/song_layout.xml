@@ -11,5 +11,5 @@
         android:id="@+id/textView"
         android:textColor="#010101"
         android:padding="10dp"
-        android:textSize="20sp" />
+        android:textSize="18sp" />
 </LinearLayout>
