@@ -7,8 +7,9 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
+        android:singleLine="true"
         android:id="@+id/textView"
         android:textColor="#010101"
         android:padding="10dp"
-        android:textSize="30sp" />
+        android:textSize="20sp" />
 </LinearLayout>

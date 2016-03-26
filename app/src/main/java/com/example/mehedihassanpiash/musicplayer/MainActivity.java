@@ -75,7 +75,7 @@ return  al;
     }
 
     public void toast(String text){
-        Toast.makeText(getApplicationContext(),text, Toast.LENGTH_SHORT).show();
+        //Toast.makeText(getApplicationContext(),text, Toast.LENGTH_SHORT).show();
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
